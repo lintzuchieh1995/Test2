@@ -1,0 +1,10 @@
+.jumbotron{
+    background-color: rgb(67, 3, 93);
+    color: #fbfbfb;
+}
+
+#alarm{
+    font-size: 1.5rem;
+    color:#800000;
+    font-weight: bold;
+}
